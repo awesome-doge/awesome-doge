@@ -1,6 +1,6 @@
 **Chen Po Wei** (@awesome-doge)
 
-*Current [Bitmark](https://bitmark.com/) Researcher. PhD in NTU EE. Former [Huobi](https://www.huobi.com/), [Nayuta](https://nayuta.co/), [Cybavo](https://www.cybavo.com/)
+*Current [Bitmark](https://bitmark.com/) Researcher. PhD in [NTU](https://www.ntu.edu.tw/) EE. Former [Huobi](https://www.huobi.com/), [Nayuta](https://nayuta.co/), [Cybavo](https://www.cybavo.com/)
  researcher. Standing director of [taipeihack](https://taipeihack.org/). Promoter of [Cypherpunks Taiwan](https://cypherpunks-core.github.io/). Founder of [Bitcoin Chinese Community](https://www.facebook.com/groups/bitcoin.tw).  [@awesomedoge@x0f.org](https://x0f.org/web/accounts/86067)*
 
 <a href="https://github.com/awesome-doge"><img src="https://img.shields.io/github/followers/awesome-doge.svg?label=@awesome-doge&style=social" alt="GitHub"></a> <a href="https://github.com/BlockchainCommons"><img src="https://img.shields.io/badge/BlockchainCommons--Github?style=social&logo=github" alt="GitHub"> <a href="https://github.com/bitcoin"><img src="https://img.shields.io/badge/bitcoin--Github?style=social&logo=github" alt="GitHub"> <a href="https://github.com/cypherpunks-core"><img src="https://img.shields.io/badge/cypherpunks-core--Github?style=social&logo=github" alt="GitHub">
