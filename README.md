@@ -1,4 +1,4 @@
-**Chen Po Wei** (@awesome-doge)
+**Chen Po Wei** (@awesome-doge) irc: awesome_doge.
 
 *Current [Bitmark](https://bitmark.com/) Researcher. PhD in [NTU](https://www.ntu.edu.tw/) EE. Former [Huobi](https://www.huobi.com/), [Nayuta](https://nayuta.co/), [Cybavo](https://www.cybavo.com/)
  researcher. Standing director of [taipeihack](https://taipeihack.org/). Promoter of [Cypherpunks Taiwan](https://cypherpunks-core.github.io/). Founder of [Bitcoin Chinese Community](https://www.facebook.com/groups/bitcoin.tw).  [@awesomedoge@x0f.org](https://x0f.org/web/accounts/86067)*
