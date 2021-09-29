@@ -1,8 +1,9 @@
 **Chen Po Wei** (@awesome-doge) 
 
+![](https://github-readme-stats.vercel.app/api?username=awesome-doge).   
 *Current [Bitmark](https://bitmark.com/) Researcher. Ph.D. student of [NTU](https://www.ntu.edu.tw/) EE, Master of Software Engineering of [PKU](https://www.pku.edu.cn/). Former [Huobi](https://www.huobi.com/), [Nayuta](https://nayuta.co/), [Cybavo](https://www.cybavo.com/)
  researcher. Standing director of [taipeihack](https://taipeihack.org/). Promoter of [Cypherpunks Taiwan](https://cypherpunks-core.github.io/). Founder of [Bitcoin Chinese Community](https://www.facebook.com/groups/bitcoin.tw).  [@awesomedoge@x0f.org](https://x0f.org/web/accounts/86067)*
- 
+
 Research: [Gordian](https://github.com/BlockchainCommons/Gordian), [RGB](https://github.com/rgb-org/rgb-core), [Schnorr](https://github.com/BlockchainCommons/bc-shamir), [Taproot](https://en.bitcoin.it/wiki/BIP_0341), [LN](https://github.com/lightningnetwork/lnd), [Shamir’s Secret Sharing](), [Descriptors](https://github.com/bitcoin/bitcoin/blob/master/doc/descriptors.md), [MuSig2](https://medium.com/blockstream/musig2-simple-two-round-schnorr-multisignatures-bf9582e99295), [PSBT](https://github.com/bitcoin/bips/blob/master/bip-0174.mediawiki), [OmniBOLT](https://github.com/omnilaboratory/OmniBOLT-spec).    
 irc: awesome_doge. [google scholar](https://scholar.google.com/citations?user=EnABNZwAAAAJ)
 
