@@ -1,4 +1,4 @@
-**Chen Po Wei** (@awesome-doge)    
+@awesome-doge  
 ![](https://gpvc.arturio.dev/awesome-doge).  
 ![](https://github-readme-stats.vercel.app/api?username=awesome-doge).   
 *Current [Bitmark](https://bitmark.com/) Researcher. Ph.D. student of [NTU](https://www.ntu.edu.tw/) EE, Master of Software Engineering of [PKU](https://www.pku.edu.cn/). Former [Huobi](https://www.huobi.com/), [Nayuta](https://nayuta.co/), [Cybavo](https://www.cybavo.com/)
