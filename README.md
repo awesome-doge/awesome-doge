@@ -1,4 +1,3 @@
-@awesome-doge  
 ![](https://gpvc.arturio.dev/awesome-doge).  
 ![](https://github-readme-stats.vercel.app/api?username=awesome-doge).   
 *Current TON Contributor.  Master of Software Engineering of [PKU](https://www.pku.edu.cn/). Former [Huobi](https://www.huobi.com/),[Bitmark](https://bitmark.com/), [Nayuta](https://nayuta.co/), [Cybavo](https://www.cybavo.com/)
@@ -6,6 +5,15 @@
 
 Research: [Gordian](https://github.com/BlockchainCommons/Gordian), [RGB](https://github.com/rgb-org/rgb-core), [Schnorr](https://github.com/BlockchainCommons/bc-shamir), [Taproot](https://en.bitcoin.it/wiki/BIP_0341), [LN](https://github.com/lightningnetwork/lnd), [Shamir’s Secret Sharing](), [Descriptors](https://github.com/bitcoin/bitcoin/blob/master/doc/descriptors.md), [MuSig2](https://medium.com/blockstream/musig2-simple-two-round-schnorr-multisignatures-bf9582e99295), [PSBT](https://github.com/bitcoin/bips/blob/master/bip-0174.mediawiki), [OmniBOLT](https://github.com/omnilaboratory/OmniBOLT-spec).    
 irc: awesome_doge. [google scholar](https://scholar.google.com/citations?user=NUNuG2sAAAAJ)
+
+Book:
+* [TON 白皮書](https://awesome-doge.github.io/the-open-network-white-paper/)
+* [穿越防火長城](https://awesome-doge.github.io/breaking-gfw-book/)
+* [區塊之戰](https://awesome-doge.github.io/the-blocksize-war/)
+* [比特幣編程](https://awesome-doge.github.io/programmingbticoin-zh/)
+* [精通以太](https://cypherpunks-core.github.io/ethereumbook_zh/)
+* [精通比特幣](https://cypherpunks-core.github.io/bitcoinbook_2nd_zh/)
+* [Rust book](https://awesome-doge.github.io/trpl-zh-tw/)
 
 <a href="https://github.com/awesome-doge"><img src="https://img.shields.io/github/followers/awesome-doge.svg?label=@awesome-doge&style=social" alt="GitHub"></a> <a href="https://github.com/ton-blockchain"><img src="https://img.shields.io/badge/ton-blockchain--Github?style=social&logo=github" alt="GitHub"> <a href="https://github.com/BlockchainCommons"><img src="https://img.shields.io/badge/BlockchainCommons--Github?style=social&logo=github" alt="GitHub"> <a href="https://github.com/bitcoin"><img src="https://img.shields.io/badge/bitcoin--Github?style=social&logo=github" alt="GitHub"> 
 
