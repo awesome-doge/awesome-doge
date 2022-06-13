@@ -1,4 +1,4 @@
-![](https://gpvc.arturio.dev/awesome-doge).  
+![](https://gpvc.arturio.dev/awesome-doge) 
 ![](https://github-readme-stats.vercel.app/api?username=awesome-doge).   
 *Current TON Contributor.  Master of Software Engineering of [PKU](https://www.pku.edu.cn/). Former [Huobi](https://www.huobi.com/),[Bitmark](https://bitmark.com/), [Nayuta](https://nayuta.co/), [Cybavo](https://www.cybavo.com/)
  researcher. Former Ph.D. student of [NTU](https://www.ntu.edu.tw/) EE. Standing director of [taipeihack](https://taipeihack.org/). Promoter of [Cypherpunks Taiwan](https://cypherpunks-core.github.io/). Founder of [Bitcoin Chinese Community](https://www.facebook.com/groups/bitcoin.tw).  [@awesomedoge@x0f.org](https://x0f.org/web/accounts/86067)*
