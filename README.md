@@ -7,13 +7,7 @@ Research: [Gordian](https://github.com/BlockchainCommons/Gordian), [RGB](https:/
 irc: awesome_doge. [google scholar](https://scholar.google.com/citations?user=NUNuG2sAAAAJ)
 
 Book:
-* [TON 白皮書](https://awesome-doge.github.io/the-open-network-white-paper/)
-* [穿越防火長城](https://awesome-doge.github.io/breaking-gfw-book/)
-* [區塊之戰](https://awesome-doge.github.io/the-blocksize-war/)
-* [比特幣編程](https://awesome-doge.github.io/programmingbticoin-zh/)
-* [精通以太](https://cypherpunks-core.github.io/ethereumbook_zh/)
-* [精通比特幣](https://cypherpunks-core.github.io/bitcoinbook_2nd_zh/)
-* [Rust book](https://awesome-doge.github.io/trpl-zh-tw/)
+* [TON 白皮書](https://awesome-doge.github.io/the-open-network-white-paper/)、[穿越防火長城](https://awesome-doge.github.io/breaking-gfw-book/)、[區塊之戰](https://awesome-doge.github.io/the-blocksize-war/)、[比特幣編程](https://awesome-doge.github.io/programmingbticoin-zh/)、[精通以太](https://cypherpunks-core.github.io/ethereumbook_zh/)、[精通比特幣](https://cypherpunks-core.github.io/bitcoinbook_2nd_zh/)、[Rust book](https://awesome-doge.github.io/trpl-zh-tw/)
 
 <a href="https://github.com/awesome-doge"><img src="https://img.shields.io/github/followers/awesome-doge.svg?label=@awesome-doge&style=social" alt="GitHub"></a> <a href="https://github.com/ton-blockchain"><img src="https://img.shields.io/badge/ton-blockchain--Github?style=social&logo=github" alt="GitHub"> <a href="https://github.com/BlockchainCommons"><img src="https://img.shields.io/badge/BlockchainCommons--Github?style=social&logo=github" alt="GitHub"> <a href="https://github.com/bitcoin"><img src="https://img.shields.io/badge/bitcoin--Github?style=social&logo=github" alt="GitHub"> 
 
