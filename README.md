@@ -17,12 +17,9 @@ Book:[TON 白皮書](https://awesome-doge.github.io/the-open-network-white-paper
 
 
 
+![awesome-doge github stats](https://github-readme-stats.vercel.app/api?username=awesome-doge&show_icons=true&theme=github_dark&include_all_commits=true) 
+![awesome-doge github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=awesome-doge&theme=github_dark&layout=compact)
 
-
-
- . | .
---- | --- 
-![awesome-doge github stats](https://github-readme-stats.vercel.app/api?username=awesome-doge&show_icons=true&theme=github_dark&include_all_commits=true) | ![awesome-doge github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=awesome-doge&theme=github_dark&layout=compact)
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=awesome-doge" ></img>
 </p>
