@@ -17,7 +17,7 @@ Book:[TON 白皮書](https://awesome-doge.github.io/the-open-network-white-paper
 
 
 
-[![awesome-doge GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=awesome-doge&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)    
+
 
 
  . | .
