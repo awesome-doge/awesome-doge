@@ -87,7 +87,7 @@ jobs:
           plugin_stars_limit: 4
           plugin_topics: yes
           plugin_topics_limit: 15
-          plugin_topics_mode: starred
+          plugin_topics_mode: icons
           plugin_topics_sort: stars
           plugin_traffic: yes
           repositories_forks: yes
