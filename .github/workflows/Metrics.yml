@@ -69,7 +69,7 @@ jobs:
           plugin_notable_from: organization
           plugin_notable_types: commit
           plugin_people: yes
-          plugin_people_limit: 30
+          plugin_people_limit: 40
           plugin_people_size: 30
           plugin_people_types: followers, following
           plugin_stargazers: yes
