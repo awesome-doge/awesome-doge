@@ -86,8 +86,6 @@ jobs:
           plugin_starlists_limit_repositories: 7
           plugin_starlists_only: The Open Network
           plugin_starlists_shuffle_repositories: yes
-          plugin_stars: yes
-          plugin_stars_limit: 4
           plugin_topics: yes
           plugin_topics_limit: 15
           plugin_topics_mode: starred
