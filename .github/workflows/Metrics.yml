@@ -29,6 +29,7 @@ jobs:
           user: awesome-doge
           template: classic
           base: header, activity, community, repositories, metadata
+          config_display: large
           config_timezone: Asia/Taipei
           plugin_achievements: yes
           plugin_achievements_display: detailed
