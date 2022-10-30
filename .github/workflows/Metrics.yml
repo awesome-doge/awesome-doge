@@ -29,6 +29,8 @@ jobs:
           user: awesome-doge
           template: classic
           base: header, activity, community, repositories, metadata
+          base_hireable: yes
+          base_indepth: yes
           config_display: large
           config_timezone: Asia/Taipei
           plugin_achievements: yes
@@ -42,7 +44,8 @@ jobs:
           plugin_followup_sections: repositories
           plugin_gists: yes
           plugin_habits: yes
-          plugin_habits_charts_type: chartist
+          plugin_habits_charts: yes
+          plugin_habits_charts_type: classic
           plugin_habits_days: 14
           plugin_habits_facts: yes
           plugin_habits_from: 200
@@ -68,10 +71,12 @@ jobs:
           plugin_lines_sections: base
           plugin_notable: yes
           plugin_notable_from: organization
+          plugin_notable_indepth: yes
+          plugin_notable_repositories: yes
           plugin_notable_types: commit
           plugin_people: yes
           plugin_people_limit: 30
-          plugin_people_size: 28
+          plugin_people_size: 30
           plugin_people_types: followers, following
           plugin_repositories: yes
           plugin_repositories_order: featured, pinned, starred, random
@@ -92,3 +97,4 @@ jobs:
           plugin_topics_mode: starred
           plugin_topics_sort: stars
           plugin_traffic: yes
+          repositories_forks: yes
