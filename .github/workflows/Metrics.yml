@@ -18,6 +18,8 @@ jobs:
           # The following scopes are required:
           #  - public_access (default scope)
           #  - repo
+          #  - public_repo
+          #  - read:project
           # The following additional scopes may be required:
           #  - read:org      (for organization related metrics)
           #  - read:user     (for user related data)
@@ -72,6 +74,8 @@ jobs:
           plugin_people_limit: 30
           plugin_people_size: 30
           plugin_people_types: followers, following
+          plugin_projects: yes
+          plugin_projects_limit: 4
           plugin_stargazers: yes
           plugin_stargazers_charts: yes
           plugin_stargazers_charts_type: classic
