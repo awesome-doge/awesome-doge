@@ -18,7 +18,7 @@ Research Areas: [Gordian](https://github.com/BlockchainCommons/Gordian), [RGB](h
 | TON White Paper|TON 白皮書 | [Link](https://ton-white-paper-zh.doge.tg/) | [Link](https://github.com/awesome-doge/the-open-network-white-paper)
 | Breaking The GFW | 穿越防火長城 | [Link](https://gfw.doge.tg/) | [Link](https://github.com/awesome-doge/breaking-gfw-book) |
 | The Blocksize War | 區塊大小之戰 | [Link](https://the-blocksize-war.doge.tg/) | [Link](https://github.com/awesome-doge/the-blocksize-war) |
-| Programming Bitcoin | 比特幣編程 | [Link](https://awesome-doge.github.io/programmingbticoin-zh/) |[Link](https://github.com/awesome-doge/programmingbitcoin-zh) |
+| Programming Bitcoin | 比特幣編程 | [Link](https://programmingbitcoin-zh.doge.tg/) |[Link](https://github.com/awesome-doge/programmingbitcoin-zh) |
 | Mastering Ethereum | 精通以太坊 | [Link](https://cypherpunks-core.github.io/ethereumbook_zh/) |[Link](https://github.com/awesome-doge/ethereumbook_zh) |
 | Mastering Bitcoin 2nd Edition | 精通比特幣 | [Link](https://mastering-bitcoin.doge.tg/) | [Link](https://github.com/awesome-doge/bitcoinbook_2nd_zh) |
 | Rust Book | Rust 教程 | [Link](https://trpl-zh-tw.doge.tg/) |[Link](https://github.com/awesome-doge/trpl-zh-tw) |
