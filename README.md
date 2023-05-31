@@ -11,7 +11,7 @@ Academically, I hold a Master's degree in Software Engineering from [PKU](https:
 Research Areas: [Gordian](https://github.com/BlockchainCommons/Gordian), [RGB](https://github.com/rgb-org/rgb-core), [Schnorr](https://github.com/BlockchainCommons/bc-shamir), [Taproot](https://en.bitcoin.it/wiki/BIP_0341), [LN](https://github.com/lightningnetwork/lnd), [Shamir’s Secret Sharing](), [Descriptors](https://github.com/bitcoin/bitcoin/blob/master/doc/descriptors.md), [MuSig2](https://medium.com/blockstream/musig2-simple-two-round-schnorr-multisignatures-bf9582e99295), [PSBT](https://github.com/bitcoin/bips/blob/master/bip-0174.mediawiki), [OmniBOLT](https://github.com/omnilaboratory/OmniBOLT-spec).    
  [Google Scholar](https://scholar.google.com/citations?user=NUNuG2sAAAAJ)
 
-<div align="center">
+
 
 | Book |書名 | 鏈接 | Repo |
 | --- | --- | --- | --- |
@@ -23,8 +23,7 @@ Research Areas: [Gordian](https://github.com/BlockchainCommons/Gordian), [RGB](h
 | Mastering Bitcoin 2nd Edition | 精通比特幣 | [Link](https://mastering-bitcoin.doge.tg/) | [Link](https://github.com/awesome-doge/bitcoinbook_2nd_zh) |
 | Rust Book | Rust 教程 | [Link](https://trpl-zh-tw.doge.tg/) |[Link](https://github.com/awesome-doge/trpl-zh-tw) |
 
-</div>
 
-<div align="center">
+
+
 <img src="/github-metrics.svg" alt="Metrics" width="100%">
-</div>
