@@ -9,7 +9,7 @@ Academically, I hold a Master's degree in Software Engineering from [PKU](https:
  
 
 Research Areas: [Gordian](https://github.com/BlockchainCommons/Gordian), [RGB](https://github.com/rgb-org/rgb-core), [Schnorr](https://github.com/BlockchainCommons/bc-shamir), [Taproot](https://en.bitcoin.it/wiki/BIP_0341), [LN](https://github.com/lightningnetwork/lnd), [Shamir’s Secret Sharing](), [Descriptors](https://github.com/bitcoin/bitcoin/blob/master/doc/descriptors.md), [MuSig2](https://medium.com/blockstream/musig2-simple-two-round-schnorr-multisignatures-bf9582e99295), [PSBT](https://github.com/bitcoin/bips/blob/master/bip-0174.mediawiki), [OmniBOLT](https://github.com/omnilaboratory/OmniBOLT-spec).    
-irc: awesome_doge. [google scholar](https://scholar.google.com/citations?user=NUNuG2sAAAAJ)
+ [Google Scholar](https://scholar.google.com/citations?user=NUNuG2sAAAAJ)
 
 <div align="center">
 
