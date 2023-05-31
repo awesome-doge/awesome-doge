@@ -15,7 +15,7 @@ Research Areas: [Gordian](https://github.com/BlockchainCommons/Gordian), [RGB](h
 
 | Book |書名 | 鏈接 | Repo |
 | --- | --- | --- | --- |
-| TON White Paper|TON 白皮書 | [Link](https://ton-white-paper-zh.doge.tg/) | [Link](https://github.com/awesome-doge/the-open-network-white-paper)
+| TON White Paper|TON 白皮書 | [Link](https://ton-pdf.doge.tg/) | [Link](https://github.com/awesome-doge/ton-pdf)
 | Breaking The GFW | 穿越防火長城 | [Link](https://gfw.doge.tg/) | [Link](https://github.com/awesome-doge/breaking-gfw-book) |
 | The Blocksize War | 區塊大小之戰 | [Link](https://the-blocksize-war.doge.tg/) | [Link](https://github.com/awesome-doge/the-blocksize-war) |
 | Programming Bitcoin | 比特幣編程 | [Link](https://programmingbitcoin-zh.doge.tg/) |[Link](https://github.com/awesome-doge/programmingbitcoin-zh) |
