@@ -1,7 +1,7 @@
 ![](https://gpvc.arturio.dev/awesome-doge)   
 I'm a dedicated contributor to the [TON blockchain](https://github.com/ton-blockchain), and a passionate innovator in the blockchain technology space. My experience spans multiple projects and organizations that are contributing significantly to the development and adoption of blockchain technologies.
 
-As a Co-founder of [Blocktempo](https://www.blocktempo.com/), [TonX Studio](https://www.tonx.studio/), Entropy Group, [Mzyme](https://mzyme.xyz/), [Cypherpunks Taiwan](https://cypherpunks-core.github.io/), [Taipei Bitcoin Meetup Group](https://www.meetup.com/taipei-bitcoin-meetup-group/), and [Bitcoin Chinese Society](https://www.facebook.com/groups/bitcoin.tw), I've been at the forefront of building communities and fostering knowledge exchange.
+As a Co-founder of [Blocktempo](https://www.blocktempo.com/), [TonX Studio](https://www.tonx.studio/), Entropy Group,  [Cypherpunks Taiwan](https://cypherpunks-core.github.io/), [Taipei Bitcoin Meetup Group](https://www.meetup.com/taipei-bitcoin-meetup-group/), and [Bitcoin Chinese Society](https://www.facebook.com/groups/bitcoin.tw), I've been at the forefront of building communities and fostering knowledge exchange.
 
 My past experiences include roles at leading blockchain companies and research institutions such as [Huobi](https://www.huobi.com/),[Bitmark](https://bitmark.com/), [Nayuta](https://nayuta.co/), [Cybavo](https://www.cybavo.com/), and [Institute of Information Science, Academia Sinica](https://www.iis.sinica.edu.tw/zh/index.html).
 
