@@ -1,5 +1,3 @@
-![Profile Views](https://gpvc.arturio.dev/awesome-doge)
-
 Dr. Awesome Doge is a renowned blockchain scholar and innovator, particularly in the TON blockchain space. Since diving into Bitcoin in 2013 and translating foundational texts, he has been a pivotal figure in Asia’s largest Bitcoin community. His early research at Taiwan’s Academia Sinica focused on Bitcoin’s security and network consensus, alongside studies on the Tor Network.
 
 As a co-founder of [TONX](https://www.tonx.studio/), [TonFura](https://tonfura.com/), [Cypherpunks Taiwan](https://cypherpunks-core.github.io/), [Taipei Bitcoin Meetup Group](https://www.meetup.com/taipei-bitcoin-meetup-group/), and [Bitcoin Chinese Society](https://www.facebook.com/groups/bitcoin.tw), Dr. Awesome Doge has been at the forefront of building communities and fostering knowledge exchange.
