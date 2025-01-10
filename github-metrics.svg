@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="2383" class="large">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="2401" class="large">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.large .largeable{width:474px}svg.large .largeable&gt;.row{width:100%}svg.large .column.largeable,svg.large .largeable-inline-flex,svg.large .row.largeable{display:inline-flex}svg.large .largeable-column-fields,svg.large .largeable-flex-wrap{display:flex;flex-wrap:wrap}svg.large .largeable-column-fields&gt;.field{width:230px}svg.large .chart.largeable{width:458px}svg.large .largeable-width-half{width:50%}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution .gauge-arc,.contribution .gauge-base{stroke:currentColor;stroke-width:4}.contribution .gauge text{fill:currentColor;font-size:13px}.contribution .gauge{margin:0 6px;color:inherit;transform:scale(1.4) translateY(1px)}.contribution .icon{fill:currentColor;width:10px;height:10px;margin-left:-9px;margin-top:8px;color:inherit;filter:brightness(.5)}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup-title{white-space:initial}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars .entry .bottom{margin-bottom:-1rem;line-height:1rem}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.people{padding:0 10px}.people .avatar{margin:0 2px}.starlist{padding-left:28px;width:460px}.starlist&gt;.count,.starlist&gt;.description{margin-left:32px}.starlist&gt;.count{font-size:12px;color:#666}.starlist .repositories{margin-left:-5px;margin-bottom:20px}.starlist .repository{margin:6px 0 0}.starlist .repository .description,.starlist .repository .infos{font-size:11px}.starlist .repository .name{font-size:14px}.starlist .languages{margin-top:6px;padding-left:13px}.starlist .languages svg.bar{margin-left:18px}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value-wrapper{margin-bottom:-50px;margin-top:36px;display:none}.achievement .value{margin-left:46px}.achievements.compact{display:flex;flex-wrap:wrap}.achievements.compact .achievement{flex-direction:column-reverse;align-items:center;width:80px}#metrics-end,.achievements.compact .info{width:100%}.achievements.compact .achievement .title{margin-bottom:2px;text-transform:capitalize;text-align:center}.achievements.compact .achievement .title .prefix{min-height:13px;font-size:10px;display:block;margin-bottom:-.25rem}.achievements.compact .achievement .value-wrapper{display:flex}.achievements.compact .achievement .gh,.achievements.compact .achievement .text{display:none}code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}code{display:inline-block}span.code{margin:0 4px -3px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.large .largeable{width:474px}svg.large .largeable&gt;.row{width:100%}svg.large .column.largeable,svg.large .largeable-inline-flex,svg.large .row.largeable{display:inline-flex}svg.large .largeable-column-fields,svg.large .largeable-flex-wrap{display:flex;flex-wrap:wrap}svg.large .largeable-column-fields&gt;.field{width:230px}svg.large .chart.largeable{width:458px}svg.large .largeable-width-half{width:50%}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution .gauge-arc,.contribution .gauge-base{stroke:currentColor;stroke-width:4}.contribution .gauge text{fill:currentColor;font-size:13px}.contribution .gauge{margin:0 6px;color:inherit;transform:scale(1.4) translateY(1px)}.contribution .icon{fill:currentColor;width:10px;height:10px;margin-left:-9px;margin-top:8px;color:inherit;filter:brightness(.5)}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup-title{white-space:initial}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars .entry .bottom{margin-bottom:-1rem;line-height:1rem}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.people{padding:0 10px}.people .avatar{margin:0 2px}.starlist{padding-left:28px;width:460px}.starlist&gt;.count,.starlist&gt;.description{margin-left:32px}.starlist&gt;.count{font-size:12px;color:#666}.starlist .repositories{margin-left:-5px;margin-bottom:20px}.starlist .repository{margin:6px 0 0}.starlist .repository .description,.starlist .repository .infos{font-size:11px}.starlist .repository .name{font-size:14px}.starlist .languages{margin-top:6px;padding-left:13px}.starlist .languages svg.bar{margin-left:18px}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value-wrapper{margin-bottom:-50px;margin-top:36px;display:none}.achievement .value{margin-left:46px}.achievements.compact{display:flex;flex-wrap:wrap}.achievements.compact .achievement{flex-direction:column-reverse;align-items:center;width:80px}#metrics-end,.achievements.compact .info{width:100%}.achievements.compact .achievement .title{margin-bottom:2px;text-transform:capitalize;text-align:center}.achievements.compact .achievement .title .prefix{min-height:13px;font-size:10px;display:block;margin-bottom:-.25rem}.achievements.compact .achievement .value-wrapper{display:flex}.achievements.compact .achievement .gh,.achievements.compact .achievement .text{display:none}code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}code{display:inline-block}span.code{margin:0 4px -3px}.twemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -445,7 +445,7 @@ Founder TONX</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~0.89
+                            Average per day at ~0.91
                         </div>
                     </section>
                 </div>
@@ -466,43 +466,6 @@ Founder TONX</div>
                     </filter>
                     <g transform="scale(4) translate(12, 0)">
                         <g transform="translate(0, 0)">
-                            <g transform="translate(0, 6)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-1.7, 7)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-3.4, 8)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-5.1, 8.68421052631579)">
-                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.3157894736842106 0,1.3157894736842106 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.3157894736842106 1.7,2.3157894736842106 z"/>
-                            </g>
-                            <g transform="translate(-6.8, 10)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-8.5, 11)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-10.2, 12)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                        </g>
-                        <g transform="translate(1.7, 1)">
                             <g transform="translate(0, 6)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
@@ -539,7 +502,7 @@ Founder TONX</div>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                         </g>
-                        <g transform="translate(3.4, 2)">
+                        <g transform="translate(1.7, 1)">
                             <g transform="translate(0, 5.526315789473684)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.473684210526316 0,1.4736842105263157 z"/>
@@ -576,7 +539,7 @@ Founder TONX</div>
                                 <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,7 1.7,8 z"/>
                             </g>
                         </g>
-                        <g transform="translate(5.1, 3)">
+                        <g transform="translate(3.4, 2)">
                             <g transform="translate(0, 3.31578947368421)">
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.684210526315789 0,3.6842105263157894 z"/>
@@ -613,7 +576,7 @@ Founder TONX</div>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                         </g>
-                        <g transform="translate(6.8, 4)">
+                        <g transform="translate(5.1, 3)">
                             <g transform="translate(0, 6)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
@@ -640,9 +603,9 @@ Founder TONX</div>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                             <g transform="translate(-8.5, 10.842105263157894)">
-                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.1578947368421053 0,1.1578947368421053 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1578947368421053 1.7,2.1578947368421053 z"/>
+                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.1578947368421053 0,1.1578947368421053 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1578947368421053 1.7,2.1578947368421053 z"/>
                             </g>
                             <g transform="translate(-10.2, 12)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -650,7 +613,7 @@ Founder TONX</div>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                         </g>
-                        <g transform="translate(8.5, 5)">
+                        <g transform="translate(6.8, 4)">
                             <g transform="translate(0, 6)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
@@ -687,7 +650,7 @@ Founder TONX</div>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                         </g>
-                        <g transform="translate(10.2, 6)">
+                        <g transform="translate(8.5, 5)">
                             <g transform="translate(0, 6)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
@@ -724,7 +687,7 @@ Founder TONX</div>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                         </g>
-                        <g transform="translate(11.9, 7)">
+                        <g transform="translate(10.2, 6)">
                             <g transform="translate(0, 6)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
@@ -739,6 +702,43 @@ Founder TONX</div>
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.1578947368421053 0,1.1578947368421053 z"/>
                                 <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1578947368421053 1.7,2.1578947368421053 z"/>
+                            </g>
+                            <g transform="translate(-5.1, 9)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                            <g transform="translate(-6.8, 10)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                            <g transform="translate(-8.5, 11)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                            <g transform="translate(-10.2, 12)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                        </g>
+                        <g transform="translate(11.9, 7)">
+                            <g transform="translate(0, 6)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                            <g transform="translate(-1.7, 7)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                            <g transform="translate(-3.4, 8)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                             <g transform="translate(-5.1, 9)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -861,10 +861,10 @@ Founder TONX</div>
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-8.5, 11)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            <g transform="translate(-8.5, 10.842105263157894)">
+                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.1578947368421053 0,1.1578947368421053 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1578947368421053 1.7,2.1578947368421053 z"/>
                             </g>
                             <g transform="translate(-10.2, 12)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -898,43 +898,6 @@ Founder TONX</div>
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-8.5, 10.842105263157894)">
-                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.1578947368421053 0,1.1578947368421053 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1578947368421053 1.7,2.1578947368421053 z"/>
-                            </g>
-                            <g transform="translate(-10.2, 12)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                        </g>
-                        <g transform="translate(20.4, 12)">
-                            <g transform="translate(0, 6)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-1.7, 7)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-3.4, 8)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-5.1, 9)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-6.8, 10)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
                             <g transform="translate(-8.5, 11)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
@@ -946,7 +909,7 @@ Founder TONX</div>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                         </g>
-                        <g transform="translate(22.099999999999998, 13)">
+                        <g transform="translate(20.4, 12)">
                             <g transform="translate(0, 6)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
@@ -983,7 +946,7 @@ Founder TONX</div>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                         </g>
-                        <g transform="translate(23.8, 14)">
+                        <g transform="translate(22.099999999999998, 13)">
                             <g transform="translate(0, 5.842105263157895)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.1578947368421053 0,1.1578947368421053 z"/>
@@ -1020,7 +983,7 @@ Founder TONX</div>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                         </g>
-                        <g transform="translate(25.5, 15)">
+                        <g transform="translate(23.8, 14)">
                             <g transform="translate(0, 6)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
@@ -1057,7 +1020,7 @@ Founder TONX</div>
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1578947368421053 1.7,2.1578947368421053 z"/>
                             </g>
                         </g>
-                        <g transform="translate(27.2, 16)">
+                        <g transform="translate(25.5, 15)">
                             <g transform="translate(0, 6)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
@@ -1094,7 +1057,7 @@ Founder TONX</div>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                         </g>
-                        <g transform="translate(28.9, 17)">
+                        <g transform="translate(27.2, 16)">
                             <g transform="translate(0, 6)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
@@ -1131,7 +1094,7 @@ Founder TONX</div>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                         </g>
-                        <g transform="translate(30.599999999999998, 18)">
+                        <g transform="translate(28.9, 17)">
                             <g transform="translate(0, 6)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
@@ -1168,7 +1131,7 @@ Founder TONX</div>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                         </g>
-                        <g transform="translate(32.3, 19)">
+                        <g transform="translate(30.599999999999998, 18)">
                             <g transform="translate(0, 6)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
@@ -1203,6 +1166,43 @@ Founder TONX</div>
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.1578947368421053 0,1.1578947368421053 z"/>
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1578947368421053 1.7,2.1578947368421053 z"/>
+                            </g>
+                        </g>
+                        <g transform="translate(32.3, 19)">
+                            <g transform="translate(0, 6)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                            <g transform="translate(-1.7, 7)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                            <g transform="translate(-3.4, 8)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                            <g transform="translate(-5.1, 9)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                            <g transform="translate(-6.8, 10)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                            <g transform="translate(-8.5, 11)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                            <g transform="translate(-10.2, 12)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                         </g>
                         <g transform="translate(34, 20)">
@@ -1416,38 +1416,6 @@ Founder TONX</div>
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-8.5, 11)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-10.2, 12)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                        </g>
-                        <g transform="translate(44.199999999999996, 26)">
-                            <g transform="translate(0, 6)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-1.7, 7)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-3.4, 8)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-5.1, 9)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
                         </g>
                     </g>
                 </svg>
@@ -1469,7 +1437,7 @@ Founder TONX</div>
                                     </svg>
                                     <div class="name">
                                         <span>tonkeeper/ton-connect-api-swift</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1517,7 +1485,7 @@ Founder TONX</div>
                                     </svg>
                                     <div class="name">
                                         <span>evaafi/multisig-contract-v2</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Multiowner wallet</div>
@@ -1564,7 +1532,7 @@ Founder TONX</div>
                                     </svg>
                                     <div class="name">
                                         <span>ProgramCrafter/pytoniq</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">TON Blockchain SDK with native ADNL protocols implementations</div>
@@ -1611,7 +1579,7 @@ Founder TONX</div>
                                     </svg>
                                     <div class="name">
                                         <span>1IxI1/ton-index-worker</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1805,79 +1773,11 @@ Founder TONX</div>
                                                 <path fill-rule="evenodd" d="M4 5.75C4 4.784 4.784 4 5.75 4h4.5c.966 0 1.75.784 1.75 1.75v4.5A1.75 1.75 0 0110.25 12h-4.5A1.75 1.75 0 014 10.25v-4.5zm1.75-.25a.25.25 0 00-.25.25v4.5c0 .138.112.25.25.25h4.5a.25.25 0 00.25-.25v-4.5a.25.25 0 00-.25-.25h-4.5z"/>
                                             </svg>
                                             <div class="name">
-                                                <span>Web-Rangers/Optimo-Admin</span>
+                                                <span>labraburn/node-tonlib</span>
                                                 <span></span>
                                             </div>
                                         </div>
-                                        <div class="field description">Optimo admin</div>
-                                        <div class="field infos">
-                                            <div class="language">
-                                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                                    <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                                </svg>
-                                                TypeScript
-                                            </div>
-                                            <div>
-                                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
-                                                    <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
-                                                </svg>
-                                                1
-                                            </div>
-                                            <div>
-                                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
-                                                    <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
-                                                </svg>
-                                                null
-                                            </div>
-                                        </div>
-                                    </section>
-                                </div>
-                                <div class="row fill-width largeable-width-half">
-                                    <section class="repository">
-                                        <div class="field">
-                                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                                <path fill-rule="evenodd" d="M4 5.75C4 4.784 4.784 4 5.75 4h4.5c.966 0 1.75.784 1.75 1.75v4.5A1.75 1.75 0 0110.25 12h-4.5A1.75 1.75 0 014 10.25v-4.5zm1.75-.25a.25.25 0 00-.25.25v4.5c0 .138.112.25.25.25h4.5a.25.25 0 00.25-.25v-4.5a.25.25 0 00-.25-.25h-4.5z"/>
-                                            </svg>
-                                            <div class="name">
-                                                <span>tact-lang/website</span>
-                                                <span></span>
-                                            </div>
-                                        </div>
-                                        <div class="field description">Tact website - https://tact-lang.org</div>
-                                        <div class="field infos">
-                                            <div class="language">
-                                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                                    <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                                </svg>
-                                                JavaScript
-                                            </div>
-                                            <div>
-                                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
-                                                    <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
-                                                </svg>
-                                                7
-                                            </div>
-                                            <div>
-                                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
-                                                    <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
-                                                </svg>
-                                                null
-                                            </div>
-                                        </div>
-                                    </section>
-                                </div>
-                                <div class="row fill-width largeable-width-half">
-                                    <section class="repository">
-                                        <div class="field">
-                                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                                <path fill-rule="evenodd" d="M4 5.75C4 4.784 4.784 4 5.75 4h4.5c.966 0 1.75.784 1.75 1.75v4.5A1.75 1.75 0 0110.25 12h-4.5A1.75 1.75 0 014 10.25v-4.5zm1.75-.25a.25.25 0 00-.25.25v4.5c0 .138.112.25.25.25h4.5a.25.25 0 00.25-.25v-4.5a.25.25 0 00-.25-.25h-4.5z"/>
-                                            </svg>
-                                            <div class="name">
-                                                <span>ton-blockchain/wallet-android</span>
-                                                <span></span>
-                                            </div>
-                                        </div>
-                                        <div class="field description">Standard wallet for Android</div>
+                                        <div class="field description">NodeJS wrapper for tonlibjson</div>
                                         <div class="field infos">
                                             <div class="language">
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1889,7 +1789,7 @@ Founder TONX</div>
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
                                                     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                                 </svg>
-                                                118
+                                                5
                                             </div>
                                             <div>
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
@@ -1907,23 +1807,28 @@ Founder TONX</div>
                                                 <path fill-rule="evenodd" d="M4 5.75C4 4.784 4.784 4 5.75 4h4.5c.966 0 1.75.784 1.75 1.75v4.5A1.75 1.75 0 0110.25 12h-4.5A1.75 1.75 0 014 10.25v-4.5zm1.75-.25a.25.25 0 00-.25.25v4.5c0 .138.112.25.25.25h4.5a.25.25 0 00.25-.25v-4.5a.25.25 0 00-.25-.25h-4.5z"/>
                                             </svg>
                                             <div class="name">
-                                                <span>tact-lang/tact-fift</span>
+                                                <span>tact-lang/tact.vim</span>
                                                 <span></span>
                                             </div>
                                         </div>
-                                        <div class="field description">Fift-like parser</div>
+                                        <div class="field description">
+                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+                                                <path fill="#FFAC33" d="M32.938 15.651C32.792 15.26 32.418 15 32 15H19.925L26.89 1.458c.219-.426.106-.947-.271-1.243C26.437.071 26.218 0 26 0c-.233 0-.466.082-.653.243L18 6.588 3.347 19.243c-.316.273-.43.714-.284 1.105S3.582 21 4 21h12.075L9.11 34.542c-.219.426-.106.947.271 1.243.182.144.401.215.619.215.233 0 .466-.082.653-.243L18 29.412l14.653-12.655c.317-.273.43-.714.285-1.106z"/>
+                                            </svg>
+                                            All-in-one Vim 8+ plugin for Tact programming language
+                                        </div>
                                         <div class="field infos">
                                             <div class="language">
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                                    <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                                    <path fill="#199f4b" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                                 </svg>
-                                                TypeScript
+                                                Vim Script
                                             </div>
                                             <div>
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
                                                     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                                 </svg>
-                                                2
+                                                18
                                             </div>
                                             <div>
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
@@ -1941,23 +1846,91 @@ Founder TONX</div>
                                                 <path fill-rule="evenodd" d="M4 5.75C4 4.784 4.784 4 5.75 4h4.5c.966 0 1.75.784 1.75 1.75v4.5A1.75 1.75 0 0110.25 12h-4.5A1.75 1.75 0 014 10.25v-4.5zm1.75-.25a.25.25 0 00-.25.25v4.5c0 .138.112.25.25.25h4.5a.25.25 0 00.25-.25v-4.5a.25.25 0 00-.25-.25h-4.5z"/>
                                             </svg>
                                             <div class="name">
-                                                <span>ProgramCrafter/ton-qr-deployer</span>
+                                                <span>qpwedev/ton-20-minter</span>
                                                 <span></span>
                                             </div>
                                         </div>
-                                        <div class="field description">Contract deployment on TON using only QRs</div>
+                                        <div class="field description">Script for the TON Blockchain that either creates or imports a wallet and mints TON-20 tokens</div>
                                         <div class="field infos">
                                             <div class="language">
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                                    <path fill="#ff3e00" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                                    <path fill="#00add8" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                                 </svg>
-                                                Svelte
+                                                Go
                                             </div>
                                             <div>
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
                                                     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                                 </svg>
-                                                6
+                                                23
+                                            </div>
+                                            <div>
+                                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
+                                                    <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
+                                                </svg>
+                                                null
+                                            </div>
+                                        </div>
+                                    </section>
+                                </div>
+                                <div class="row fill-width largeable-width-half">
+                                    <section class="repository">
+                                        <div class="field">
+                                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                                <path fill-rule="evenodd" d="M4 5.75C4 4.784 4.784 4 5.75 4h4.5c.966 0 1.75.784 1.75 1.75v4.5A1.75 1.75 0 0110.25 12h-4.5A1.75 1.75 0 014 10.25v-4.5zm1.75-.25a.25.25 0 00-.25.25v4.5c0 .138.112.25.25.25h4.5a.25.25 0 00.25-.25v-4.5a.25.25 0 00-.25-.25h-4.5z"/>
+                                            </svg>
+                                            <div class="name">
+                                                <span>romanovichim/dartTonconnect</span>
+                                                <span></span>
+                                            </div>
+                                        </div>
+                                        <div class="field description">Dart SDK for TON Connect 2.0</div>
+                                        <div class="field infos">
+                                            <div class="language">
+                                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                                    <path fill="#00b4ab" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                                </svg>
+                                                Dart
+                                            </div>
+                                            <div>
+                                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
+                                                    <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                                </svg>
+                                                22
+                                            </div>
+                                            <div>
+                                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
+                                                    <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
+                                                </svg>
+                                                null
+                                            </div>
+                                        </div>
+                                    </section>
+                                </div>
+                                <div class="row fill-width largeable-width-half">
+                                    <section class="repository">
+                                        <div class="field">
+                                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                                <path fill-rule="evenodd" d="M4 5.75C4 4.784 4.784 4 5.75 4h4.5c.966 0 1.75.784 1.75 1.75v4.5A1.75 1.75 0 0110.25 12h-4.5A1.75 1.75 0 014 10.25v-4.5zm1.75-.25a.25.25 0 00-.25.25v4.5c0 .138.112.25.25.25h4.5a.25.25 0 00.25-.25v-4.5a.25.25 0 00-.25-.25h-4.5z"/>
+                                            </svg>
+                                            <div class="name">
+                                                <span>tonkeeper/ton-mnemonic-swift</span>
+                                                <span></span>
+                                            </div>
+                                        </div>
+                                        <div class="field description">Mnemonic code for generating deterministic keys for TON (The Open Network)</div>
+                                        <div class="field infos">
+                                            <div class="language">
+                                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                                    <path fill="#f05138" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                                </svg>
+                                                Swift
+                                            </div>
+                                            <div>
+                                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
+                                                    <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                                </svg>
+                                                4
                                             </div>
                                             <div>
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
@@ -1987,13 +1960,8 @@ Founder TONX</div>
                             <div class="entry">
                                 <span class="value"></span>
                                 <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                27
-                                <div class="bottom">Dec.</div>
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 28
+                                <div class="bottom">Dec.</div>
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
@@ -2055,6 +2023,11 @@ Founder TONX</div>
                                 <span class="value"></span>
                                 <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 9
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                10
                             </div>
                         </div>
                     </section>
@@ -2064,13 +2037,8 @@ Founder TONX</div>
                             <div class="entry">
                                 <span class="value"></span>
                                 <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
-                                27
-                                <div class="bottom">Dec.</div>
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 28
+                                <div class="bottom">Dec.</div>
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
@@ -2132,6 +2100,11 @@ Founder TONX</div>
                                 <span class="value"></span>
                                 <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 9
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                10
                             </div>
                         </div>
                     </section>
@@ -2146,8 +2119,8 @@ Founder TONX</div>
                 </h2>
                 <div class="row">
                     <section class="people">
+                        <img class="avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAExUlEQVR4nMWXC0yVZRjHP8xltnVZm8sNW605a1qmNFIWLq9FFxFD7aJmNY28MbVpjmleGhqWbc5l3nDqTEXUQkEtOik2r5Wi5hUlE0tFQDgCxved8/zac17kcIBz4qSt//ax873f+33/53ne/3PB4n+CFdbuGtv/WwSWZUDOTjh8Aiqr/yPisnIkKh7+qjH3V0qgQ19IXQRjZsD+fL9Bet0qsbw9BflgDlTfgDcnwoZt5sGh49C1P2xxwa9n/PuXZSADR8PZ32+NmC/WwGP9kD7DkQUr4eWRZj37B+j7FsxdDPPTzVrRJegYh6zPRnoNRVZtDpO48IL/d+k1Q+zai8S+Bm27w7HTsGQdjJgMJwqg4rrxViPyxIvIyk0mQifPhUF8/qJ5WT311p7VuJmweK2PQCamgmsv7DsMMxbAyBRzHBt3QM+hPkNlShqy71DIQFpNrhZdQhLeh8Hj4FIx/HwMmTov5If0zKXfCGTe0kD1N4dY4pNAldtnOKhAHoqFTnFQ7qZZsG1kfjry9XeNnx05BV5vEOKDR+GZV5GxM+HMb3D0lFFvCHgrK5F6HwyK8bMg72DTxD64KxHNyx6vhxSHt7QUOzERT8uW2NHRSHWQAqJ5v8UFr4yC5NkNiNXiZeuNd7ZjvN+0w3gdBHZCAmJZdVd1TDfs7Gz/Bj2eSanw+PMwZDxk5CDPDjFqryO+XgVTP4Xew6B9b0gcC4vXNUnoKS7GWbsWp+2DdaROq1ac+jGrwUaPKakqzlpI7p46vTQOteakpsvmbwOWveXlODk5OJ07+8jc991dR+yNiMBJScHjctFcWL6/mpMnzprCcbwgYIOTlUVJ9FMURt6DJ8KipM29eFq3xt2rB+6HIwPCrQZ4iooCvV63FVZshF0HTGWrFaIhXr4BVmTCVhfM/TKAWMrKuP7VKq7m78fO24W7w6MUzPkQT5s2AaR2C4uayEhqLl70v6wl9o0JMCUNBo2FrvGwcHU9Ym1tkz8BLXVaOBat8YmhKTg9e5LftwsVHdvjvtOiqqVF6V0WToSFe/p0NdW/WUkLi0KEOv8kRA+E+PcgaZophVnfN/mCHRuLVz1s1w77jhbceOB+7JgY7ORkn/ACoqUtUx2Znw7f5Jq6EBDqJiDq8enCRuue3btxNmYiHg9ezd1gvdfxmCsr1xzfyBRTEQPSqT6uVSCjUkwXCuL1P8J2kAFJpm4HqWpWgJe7D0LUACR5NqKhdxzkj8th88rMBeYaONq0ymsVIYhFTHvTerpwNfL5CiRtCXTpb3LbMRWtWej4AhSXIhM+RoYkQ7dE07eDeeyDnsvTA5Dug4y1V0qQzG3ImI+CE2k4t+chmjKXrxqjo+J9U4hWKumeaIQVilh+OgqPPIekZxrh6ATy5Etw5KR/0879kHfArwklmJiKJE1D5iyqM0a0BHeKQ1TRDdDYYxXphT/9t+NnIZpeiqraDqTea0W6ibJyqLqBqHq1KdwcdTV62gfCHfZEvVKRKaFqQAc9TQkdaxtMkapi0pbCsEmwPCPUZ5sxZZ67ABp6RVmFiUbBeTOVNMxfvd3zC8QnIaND6CHcgV5SPkNiBkPcO2a6bPh8ex68O9Vv6G39F8brNd2r3gD/bxEe8W3E37GUwDZegG31AAAAAElFTkSuQmCC" width="30" height="30" alt="" />
                         <img class="avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAaQAAAGkCAIAAADxLsZiAAAACXBIWXMAAAsTAAALEwEAmpwYAAAPkElEQVR4nO3W0a3ENgwEwNSb1tiKi7kS8uevAAZo4fH2OAMVYKzItf75ACzwz/QHAPwFZQesoOyAFZQdsIKyA1ZQdsAKyg5YQdkBKyg7YAVlB6yg7IAVlB2wgrIDVlB2wArKDlhB2QErKDtgBWUHrKDsgBWUHbCCsgNWUHbACsoOWEHZASsoO2AFZQesoOyAFZQdsIKyA1ZQdsAKyg5YQdkBKyg7YAVlB6zwd2VX/17O9yfw+S3jeTr1NVOn7IyjsjMD14ZfrLIz6MrODFzK7iTv+YgEPr9lPE+nvmbqvOyMo7IzA9eGX6yyM+jKzgxcyu4k7/mIBD6/ZTxPp75m6rzsjKOyMwPXhl+ssjPoys4MXMruJO/5iAQ+v2U8T6e+Zuq87IyjsjMD14ZfrLIz6MrODFzK7iTv+YgEPr9lPE+nvmbqvOyMo7IzA9eGX6yyM+jKzgxcyu4k7/mIBD6/ZTxPp75m6rzsjKOyMwMrfrHKzqArOzNwKbuTvOcjEvj8lvE8nfqaqfOyM47KzgxcG36xys6gKzszcCm7k7znIxL4/JbxPJ36mqnzsjOOys4MXBt+scrOoCs7M3Apu5O85yMS+PyW8Tyd+pqp87IzjsrODFwbfrHKzqArOzNwKbuTvOcjEvj8lvE8nfqaqfOyM47KzgxcG36xys6gKzszcCm7k7znIxL4/JbxPJ36mqnzsjOOys4MXBt+scrOoCs7M3Apu5O85yMS+PyW8Tyd+pqp87IzjsrODFwbfrHKzqArOzNwKbuTvOcjEvj8lvE8nfqaqfOyM47KzgxcG36xys6gKzszcCm7k7znIxL4/JbxPJ36mqnzsjOOys4MXBt+scrOoCs7M3Apu5O85yMS+PyW8Tyd75k6LzvjqOzMwLXhF6vsDLqyMwOXsjvJez4igc9vGc/Tqa+ZOi8746jszMC14Rer7Ay6sjMDl7I7yXs+IoHPbxnP06mvmTovO+Oo7MzAteEXq+wMurIzA5eyO8l7PiKBz28Zz9Opr5k6LzvjqOzMwLXhF6vsDLqyMwOXsjvJez4igc9vGc/Tqa+ZOi8746jszMC14Rer7Ay6sjMDl7I7yXs+IoHPbxnP06mvmTovO+Oo7MzAteEXq+wMurIzA5eyO8l7PiKBz28Zz9Opr5k6LzvjqOzMwLXhF6vsDLqyMwOXsjvJez4igc9vGc/Tqa+ZOi8746jszMC14Rer7Ay6sjMDl7I7yXs+IoHPbxnP06mvmTovO+Oo7MzAteEXq+wMurIzA8ruKO/5iAQ+v2U8T6e+Zuq87IyjBCRwbfjF/l3Z/R4/bQn8cDX8HmXXZ9UloOyCKLs+qy4BZRdE2fVZdQkouyDKrs+qS0DZBVF2fVZdAsouiLLrs+oSUHZBlF2fVZeAsgui7PqsugSUXRBl12fVJaDsgii7PqsuAWUXRNn1WXUJKLsgyq7PqktA2QVRdn1WXQLKLoiy67PqElB2QZRdn1WXgLILouz6rLoElF0QZddn1SWg7IIouz6rLgFlF0TZ9Vl1CSi7IMquz6pLQNkFUXZ9Vl0Cyi6Isuuz6hJQdkGUXZ9Vl4CyC6Ls+qy6BJRdEGXXZ9UloOyCKLs+qy4BZRdE2fVZdQkouyDKrs+qS0DZBVF2fVZdAsouiLLrs+oSUHZBlF2fVZeAsgui7PqsugSUXRBl12fVJaDsgii7PqsuAWUXRNn1WXUJKLsgyq7PqktA2QVRdn1WXQLKLoiy67PqElB2QZRdn1WXgLILouz6rLoElF0QZddn1SWg7IIouz6rLgFlF0TZ9Vl1CSi7IMquz6pLQNkFUXZ9Vl0Cyi6Isuuz6hJQdkGUXZ9Vl4CyC6Ls+qy6BJRdEGXXZ9UloOyCKLs+qy4BZRdE2fVZdQkouyDKrs+qS0DZBVF2fVZdAsouiLLrs+oSUHZBlF2fVZeAsgui7PqsugSUXRBl12fVJaDsgii7PqsuAWUXRNn1WXUJKLsgyq7PqktA2QVRdn1WXQLKLoiy67PqElB2QZRdn1WXgLILouz6rLoElF0QZddn1SWg7IIouz6rLgFlF0TZ9Vl1CSi7IMquz6pLQNkF+buysxgSkIAE6t//OX9TQcou4JLg9pN1+fkTyi7gkuA2Xkyl7B6NB5p7SWCP3vOyU3YkGf/BV+yjQdkFXBLcxouplN2j8UBzLwns0XtedsqOJOM/+Ip9NCi7gEuC23gxlbJ7NB5o7iWBPXrPy07ZkWT8B1+xjwZlF3BJcBsvplJ2j8YDzb0ksEfvedkpO5KM/+Ar9tGg7AIuCW7jxVTK7tF4oLmXBPboPS87ZUeS8R98xT4alF3AJcFtvJhK2T0aDzT3ksAevedlp+xIMv6Dr9hHg7ILuCS4jRdTKbtH44HmXhLYo/e87JQdScZ/8BX7aFB2AZcEt/FiKmX3aDzQ3EsCe/Sel52yI8n4D75iHw3KLuCS4DZeTKXsHo0HmntJYI/e87JTdiQZ/8FX7KNB2QVcEtzGi6mU3aPxQHMvCezRe152yo4k4z/4in00KLuAS4LbeDGVsns0HmjuJYE9es/LTtmRZPwHX7GPBmUXcElwGy+mUnaPxgPNvSSwR+952Sk7koz/4Cv20aDsAi4JbuPFVMru0XiguZcE9ug9LztlR5LxH3zFPhqUXcAlwW28mErZPRoPNPeSwB6952Wn7Egy/oOv2EeDsgu4JLiNF1Mpu0fjgeZeEtij97zslB1Jxn/wFftoUHYBlwS38WIqZfdoPNDcSwJ79J6XnbIjyfgPvmIfDcou4JLgNl5MpewejQeae0lgj97zslN2JBn/wVfso0HZBVwS3MaLqZTdo/FAcy8J7NF7XnbKjiTjP/iKfTQou4BLgtt4MZWyezQeaO4lgT16z8tO2ZFk/AdfsY8GZRdwSXAbL6ZSdo/GA829JLBH73nZKTuSjP/gK/bRoOwCLglu48VUyu7ReKC5lwT26D0vO2VHkvEffMU+GpRdwCXBbbyYStk9Gg8095LAHr3nZafsSDL+g6/YR4OyC7gkuI0XUym7R+OB5l4S2KP3vOzmG9ORwPIEPj9Wdr9nfEScnQlMD34qZdc3PvTOzgQO7v8qyq5vfOidnQkc3P9VlF3f+NA7OxM4uP+rKLu+8aF3diZwcP9XUXZ940Pv7Ezg4P6vouz6xofe2ZnAwf1fRdn1jQ+9szOBg/u/irLrGx96Z2cCB/d/FWXXNz70zs4EDu7/Ksqub3zonZ0JHNz/VZRd3/jQOzsTOLj/qyi7vvGhd3YmcHD/V1F2feND7+xM4OD+r6Ls+saH3tmZwMH9X0XZ9Y0PvbMzgYP7v4qy6xsfemdnAgf3fxVl1zc+9M7OBA7u/yrKrm986J2dCRzc/1WUXd/40Ds7Ezi4/6sou77xoXd2JnBw/1dRdn3jQ+/sTODg/q+i7PrGh97ZmcDB/V9F2fWND72zM4GD+7+KsusbH3pnZwIH938VZdc3PvTOzgQO7v8qyq5vfOidnQkc3P9VlF3f+NA7OxM4uP+rKLu+8aF3diZwcP9XUXZ940Pv7Ezg4P6vouz6xofe2ZnAwf1fRdn1jQ+9szOBg/u/irLrGx96Z2cCB/d/FWXXNz70zs4EDu7/Ksqub3zonZ0JHNz/VZRd3/jQOzsTOLj/qyi7vvGhd3YmcHD/V1F2feND7+xM4OD+r6Ls+saH3tmZwMH9X0XZ9Y0PvbMzgYP7v4qy6xsfemdnAgf3fxVl1zc+9M7OBA7u/yrKrm986J2dCRzc/1WUXd/40Ds7Ezi4/6sou77xoXd2JnBw/1dRdn3jQ+/sTODg/q+i7PrGh97ZmcDB/V9F2fWND72zM4GD+7+KsusbH3pnZwIH938VZdc3PvTOzgQO7v8qyq5vfOidnQkc3P9VlF3f+NA7OxM4uP+rKLu+8aF3diZwcP9XUXZ940Pv7Ezg4P6vouz6xofe2ZnAwf1fRdn1jQ+9szOBg/u/irLrGx96Z2cCB/d/FWXXNz70zs4EDu7/Ksqub3zonZ0JHNz/VZRd3/jQOzsTOLj/qyi7vvGhd3YmcHD/V1F2feND7+xM4OD+r6Ls+saH3tmZwMH9X0XZ9Y0PvbMzgYP7v4qy6xsfemdnAgf3fxVl1zc+9M7OBA7u/yrKrm986J2dCRzc/1WUXd/40Ds7Ezi4/6sou77xoXd2JnBw/1f5u7IbHxFHAhKor1yEv6kgZRdwSXAbL6ZSdo/GA829JLBH73nZKTuSjP/gK/bRoOwCLglu48VUyu7ReKC5lwT26D0vO2VHkvEffMU+GpRdwCXBbbyYStk9Gg8095LAHr3nZafsSDL+g6/YR4OyC7gkuI0XUym7R+OB5l4S2KP3vOyUHUnGf/AV+2hQdgGXBLfxYipl92g80NxLAnv0npedsiPJ+A++Yh8Nyi7gkuA2Xkyl7B6NB5p7SWCP3vOyU3YkGf/BV+yjQdkFXBLcxouplN2j8UBzLwns0XtedsqOJOM/+Ip9NCi7gEuC23gxlbJ7NB5o7iWBPXrPy07ZkWT8B1+xjwZlF3BJcBsvplJ2j8YDzb0ksEfvedkpO5KM/+Ar9tGg7AIuCW7jxVTK7tF4oLmXBPboPS87ZUeS8R98xT4alF3AJcFtvJhK2T0aDzT3ksAevedlp+xIMv6Dr9hHg7ILuCS4jRdTKbtH44HmXhLYo/e87JQdScZ/8BX7aFB2AZcEt/FiKmX3aDzQ3EsCe/Sel52yI8n4D75iHw3KLuCS4DZeTKXsHo0HmntJYI/e87JTdiQZ/8FX7KNB2QVcEtzGi6mU3aPxQHMvCezRe152yo4k4z/4in00KLuAS4LbeDGVsns0HmjuJYE9es/LTtmRZPwHX7GPBmUXcElwGy+mUnaPxgPNvSSwR+952Sk7koz/4Cv20aDsAi4JbuPFVMru0XiguZcE9ug9LztlR5LxH3zFPhqUXcAlwW28mErZPRoPNPeSwB6952Wn7Egy/oOv2EeDsgu4JLiNF1Mpu0fjgeZeEtij97zslB1Jxn/wFftoUHYBlwS38WIqZfdoPNDcSwJ79J6XnbIjyfgPvmIfDcou4JLgNl5MpewejQeae0lgj97zslN2JBn/wVfso0HZBVwS3MaLqZTdo/FAcy8J7NF7XnbKjiTjP/iKfTQou4BLgtt4MZWyA/hmf/eyAxik7IAVlB2wgrIDVlB2wArKDlhB2QErKDtgBWUHrKDsgBWUHbCCsgNWUHbACsoOWEHZASsoO2AFZQesoOyAFZQdsIKyA1ZQdsAKyg5YQdkBKyg7YAVlB6yg7IAVlB2wgrIDVlB2wArKDlhB2QErKDtgBWUHfDb4D3O+GA45CfYSAAAAAElFTkSuQmCC" width="30" height="30" alt="" />
-                        <img class="avatar" src="data:image/png;base64,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" width="30" height="30" alt="" />
                         <img class="avatar" src="data:image/png;base64,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" width="30" height="30" alt="" />
                         <img class="avatar" src="data:image/png;base64,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" width="30" height="30" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAeAB4DASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABgcCBAUI/8QALhAAAQMCBAMHBAMAAAAAAAAAAQIDBAURAAYSIRMxcRUiQVFSYYEkMkKRQ6Gx/8QAFwEBAQEBAAAAAAAAAAAAAAAABgUEB//EAB8RAAEEAQUBAAAAAAAAAAAAAAEAAgMEBRESITFBIv/aAAwDAQACEQMRAD8ADsz5RFJjPyXk/TtJKyoDwGAtFOzDIiolQcvTnIahrS4IjiwR53G2Ons6Upidl/UGBJaLzK3GT/IA4DoPsbW6Yy2a7XHKXLd7DabfbcShhriLAUje/MDy8hjLDkvgEDVUpqLZHcpDZbUzVIznc0ONmzifT74tSqYELsQBhgzKQp6s9qPU5unLlMFDrTf5uBd9Z2G51n9c8UJtLFwFi48MXK1psjdUKyOtKwWeJu1JxUGnukk8NuzhtvsDc/0MBNUrtXl1aP2a7FREeUeEy4oLXKCDutBH2j9254aOV6Q/UYrbs5bSmgLhKbknrhUVTK6xOnRoFWlwo6FrTIZaA0mx7ym/Tf08sAcWx7GFsnXi6PNKC/aOSO1Op1xmpyUKbsS00ni2VfhqXuW7jYkWF+oxW4yFc7fODDKGRKfU8tyorSlxEtSOEwpPfKSlN1E356yo36DGFXMg1ejKF5kN5larIUCpKvkaT/uFFKaLZs6KF52k6eUuPK//2Q==" width="30" height="30" alt="" />
@@ -2471,7 +2444,7 @@ Founder TONX</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1.952087611225192 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="2.036960985626286 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -2660,7 +2633,7 @@ Founder TONX</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="57.407407407407405 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="57.71771771771772 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -2683,12 +2656,12 @@ Founder TONX</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 129k out of 210m repositories</span>
+                                    <span class="gh">ranked 128k out of 219m repositories</span>
                                     <div class="value-wrapper">
-                                        <div class="value">371</div>
+                                        <div class="value">373</div>
                                     </div>
                                 </div>
-                                <div class="text">Maintaining a repository with 371 stars</div>
+                                <div class="text">Maintaining a repository with 373 stars</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -2904,7 +2877,7 @@ Founder TONX</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Jan 2025, 20:12:13 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 10 Jan 2025, 08:30:53 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
