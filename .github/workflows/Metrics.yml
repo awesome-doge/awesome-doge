@@ -69,7 +69,6 @@ jobs:
           plugin_languages_colors: github
           plugin_languages_indepth: yes
           plugin_languages_limit: 8
-          plugin_languages_partial: yes
           plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_days: 14
           plugin_languages_recent_load: 300
@@ -126,8 +125,6 @@ jobs:
           # Additional features
           plugin_followup: yes
           plugin_followup_sections: base
-          plugin_followup_duration: year
-          plugin_traffic_sources: yes
           plugin_projects: yes
           plugin_projects_limit: 5
           plugin_sponsorships: yes
