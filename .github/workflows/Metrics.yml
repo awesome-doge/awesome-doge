@@ -18,7 +18,7 @@ jobs:
       contents: write
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Generate Metrics
         uses: lowlighter/metrics@latest
@@ -40,19 +40,7 @@ jobs:
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_achievements_secrets: yes
-          plugin_achievements_threshold: C
-
-          # Gists plugin
-          plugin_gists: yes
-
-          # Habits plugin
-          plugin_habits: yes
-          plugin_habits_charts_type: classic
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_from: 200
-          plugin_habits_languages_limit: 8
-          plugin_habits_languages_threshold: 0%
+          plugin_achievements_threshold: B
 
           # Introduction plugin
           plugin_introduction: yes
@@ -62,23 +50,10 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
 
-          # Languages plugin
-          plugin_languages: yes
-          plugin_languages_analysis_timeout: 15
-          plugin_languages_categories: markup, programming
-          plugin_languages_colors: github
-          plugin_languages_indepth: yes
-          plugin_languages_limit: 8
-          plugin_languages_recent_categories: markup, programming
-          plugin_languages_recent_days: 14
-          plugin_languages_recent_load: 300
-          plugin_languages_sections: most-used
-          plugin_languages_threshold: 0%
-
           # Lines plugin
           plugin_lines: yes
-          plugin_lines_history_limit: 1
-          plugin_lines_repositories_limit: 4
+          plugin_lines_history_limit: 3
+          plugin_lines_repositories_limit: 8
           plugin_lines_sections: base
 
           # Notable plugin
@@ -88,14 +63,9 @@ jobs:
 
           # People plugin
           plugin_people: yes
-          plugin_people_limit: 40
+          plugin_people_limit: 25
           plugin_people_size: 30
           plugin_people_types: followers, following
-
-          # Stargazers plugin
-          plugin_stargazers: yes
-          plugin_stargazers_charts: yes
-          plugin_stargazers_charts_type: classic
 
           # Starlists plugin
           plugin_starlists: yes
@@ -103,7 +73,6 @@ jobs:
           plugin_starlists_limit: 1
           plugin_starlists_limit_languages: 8
           plugin_starlists_limit_repositories: 5
-          plugin_starlists_only: The Open Network
           plugin_starlists_shuffle_repositories: yes
 
           # Stars plugin
@@ -125,5 +94,3 @@ jobs:
           # Additional features
           plugin_followup: yes
           plugin_followup_sections: base
-          plugin_sponsorships: yes
-          plugin_sponsorships_sections: past, present
