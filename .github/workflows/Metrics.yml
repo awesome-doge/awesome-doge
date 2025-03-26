@@ -125,7 +125,5 @@ jobs:
           # Additional features
           plugin_followup: yes
           plugin_followup_sections: base
-          plugin_projects: yes
-          plugin_projects_limit: 5
           plugin_sponsorships: yes
           plugin_sponsorships_sections: past, present
