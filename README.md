@@ -12,13 +12,6 @@ His cryptocurrency journey began in **2013** with Bitcoin, where he translated f
   * [**Cypherpunks Taiwan**](https://cypherpunks-core.github.io/) — Taiwan’s leading privacy‑tech collective
   * [**Taipei Bitcoin Meetup**](https://www.meetup.com/taipei-bitcoin-meetup-group/) — one of Asia’s longest-running Bitcoin communities
   * [**Bitcoin Chinese Society**](https://www.facebook.com/groups/bitcoin.tw) — education hub for Chinese-speaking Bitcoin enthusiasts
-* Roles at:
-
-  * Huobi
-  * Bitmark
-  * Nayuta
-  * **Circle** (acquired Cybavo in 2022 ([coindesk.com][1]))
-  * Institute of Information Science, Academia Sinica
 
 ### 🎓 Education
 
