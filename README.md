@@ -1,12 +1,40 @@
-Dr. Awesome Doge is a renowned blockchain scholar and innovator, particularly in the TON blockchain space. Since diving into Bitcoin in 2013 and translating foundational texts, he has been a pivotal figure in Asia’s largest Bitcoin community. His early research at Taiwan’s Academia Sinica focused on Bitcoin’s security and network consensus, alongside studies on the Tor Network.
+## 👋 About Dr. Awesome Doge
 
-As a co-founder of [TONX](https://www.tonx.studio/), [TONX API](https://tonxapi.com/), [Cypherpunks Taiwan](https://cypherpunks-core.github.io/), [Taipei Bitcoin Meetup Group](https://www.meetup.com/taipei-bitcoin-meetup-group/), and [Bitcoin Chinese Society](https://www.facebook.com/groups/bitcoin.tw), Dr. Awesome Doge has been at the forefront of building communities and fostering knowledge exchange.
+**Dr. Awesome Doge** is a blockchain scientist and visionary entrepreneur, currently spearheading **KTON**, a next‑generation liquid staking protocol built on **The Open Network (TON)**. He also serves as a **Core Scientist at TON Core**, contributing directly to the evolution of TON’s protocol layer.
 
-His past experiences include roles at leading blockchain companies and research institutions such as [Huobi](https://www.huobi.com/), [Bitmark](https://bitmark.com/), [Nayuta](https://nayuta.co/), [Cybavo](https://www.cybavo.com/), and [Institute of Information Science, Academia Sinica](https://www.iis.sinica.edu.tw/zh/index.html).
+His cryptocurrency journey began in **2013** with Bitcoin, where he translated foundational texts and became a pivotal figure in Asia’s early Bitcoin community. His research at Taiwan’s prestigious **Academia Sinica** centered on Bitcoin's security, network consensus algorithms, and privacy-preserving technologies such as the Tor Network.
 
-Academically, he holds a Master's degree in Software Engineering from [PKU](https://www.pku.edu.cn/), and he is a former Ph.D. student of [NTU](https://www.ntu.edu.tw/) Electrical Engineering.
+### 🔧 Past Projects & Roles
 
-**Research Areas:** [Gordian](https://github.com/BlockchainCommons/Gordian), [RGB](https://github.com/rgb-org/rgb-core), [Schnorr](https://github.com/BlockchainCommons/bc-shamir), [Taproot](https://en.bitcoin.it/wiki/BIP_0341), [LN](https://github.com/lightningnetwork/lnd), Shamir’s Secret Sharing, [Descriptors](https://github.com/bitcoin/bitcoin/blob/master/doc/descriptors.md), [MuSig2](https://medium.com/blockstream/musig2-simple-two-round-schnorr-multisignatures-bf9582e99295), [PSBT](https://github.com/bitcoin/bips/blob/master/bip-0174.mediawiki), [OmniBOLT](https://github.com/omnilaboratory/OmniBOLT-spec)
+* Co‑founder of:
+
+  * [**TONX**](https://www.tonx.ai/) — early staking infrastructure for TON
+  * [**Cypherpunks Taiwan**](https://cypherpunks-core.github.io/) — Taiwan’s leading privacy‑tech collective
+  * [**Taipei Bitcoin Meetup**](https://www.meetup.com/taipei-bitcoin-meetup-group/) — one of Asia’s longest-running Bitcoin communities
+  * [**Bitcoin Chinese Society**](https://www.facebook.com/groups/bitcoin.tw) — education hub for Chinese-speaking Bitcoin enthusiasts
+* Roles at:
+
+  * Huobi
+  * Bitmark
+  * Nayuta
+  * **Circle** (acquired Cybavo in 2022 ([coindesk.com][1]))
+  * Institute of Information Science, Academia Sinica
+
+### 🎓 Education
+
+* M.S. in Software Engineering, **Peking University (PKU)**
+* Former Ph.D. researcher in Electrical Engineering, **National Taiwan University (NTU)**
+
+---
+
+### ⚙️ Current Focus
+
+* Designing and operating **KTON** for TON’s liquid staking ecosystem
+* Core protocol research and development at **TON Core**
+
+### 🔬 Research Interests
+
+Gordian · RGB · Schnorr · Taproot · Lightning Network · Shamir’s Secret Sharing · Descriptors · MuSig2 · PSBT · OmniBOLT
 
 **Books:**
 
