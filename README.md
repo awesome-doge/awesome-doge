@@ -1,48 +1,55 @@
-## 👋 About Dr. Awesome Doge
+# Dr. Awesome Doge
 
-**Dr. Awesome Doge** is a blockchain scientist and visionary entrepreneur, currently spearheading **KTON**, a next‑generation liquid staking protocol built on **The Open Network (TON)**. He also serves as a **Core Scientist at TON Core**, contributing directly to the evolution of TON’s protocol layer.
+Blockchain developer and researcher based in Taiwan. Since discovering Bitcoin in 2013, dedicated to advancing decentralized technologies and making blockchain knowledge accessible to Chinese-speaking communities worldwide.
 
-His cryptocurrency journey began in **2013** with Bitcoin, where he translated foundational texts and became a pivotal figure in Asia’s early Bitcoin community. His research at Taiwan’s prestigious **Academia Sinica** centered on Bitcoin's security, network consensus algorithms, and privacy-preserving technologies such as the Tor Network.
+## Current
 
-### 🔧 Past Projects & Roles
+**[TON Foundation](https://ton.org)** - Strategic Partnerships
+Validator infrastructure, protocol research, and technical documentation
 
-* Co‑founder of:
+## Timeline
 
-  * [**TONX**](https://www.tonx.ai/) — early staking infrastructure for TON
-  * [**Cypherpunks Taiwan**](https://cypherpunks-core.github.io/) — Taiwan’s leading privacy‑tech collective
-  * [**Taipei Bitcoin Meetup**](https://www.meetup.com/taipei-bitcoin-meetup-group/) — one of Asia’s longest-running Bitcoin communities
-  * [**Bitcoin Chinese Society**](https://www.facebook.com/groups/bitcoin.tw) — education hub for Chinese-speaking Bitcoin enthusiasts
+| Year | Focus | Achievement |
+|------|-------|-------------|
+| 2013 | Bitcoin | Founded Asia's largest Bitcoin community & Taipei Bitcoin Meetup |
+| 2014 | Tor | Onion routing & hidden services research |
+| 2015 | Ethereum | Smart contract development |
+| 2016 | Network Privacy | Privacy tools & anonymity research |
+| 2020 | RGB | Bitcoin Layer 2 protocols |
+| 2021 | TON | Core developer & ecosystem builder |
 
-### 🎓 Education
+## Projects
 
-* M.S. in Software Engineering, **Peking University (PKU)**
-* Former Ph.D. researcher in Electrical Engineering, **National Taiwan University (NTU)**
+- [Tonkey](https://tonkey.app) - First TON multisig wallet
+- [TONScan](https://tonscan.com) - Blockchain explorer
+- [TON Validators](https://validators.doge.tg) - Validator monitoring
+- [Cocoon](https://cocoon.doge.tg) - TEE-based AI inference
+- [Cypherpunks Taiwan](https://cypherpunks-core.github.io) - Privacy advocacy
+- [21dev](https://21dev.org) - Bitcoin technical education
 
----
+## Education
 
-### ⚙️ Current Focus
+- M.S. Software Engineering, **Peking University**
+- Blockchain Security Research, **Academia Sinica**
 
-* Designing and operating **KTON** for TON’s liquid staking ecosystem
-* Core protocol research and development at **TON Core**
+## Translations
 
-### 🔬 Research Interests
+15+ blockchain technical documents translated into Chinese:
 
-Gordian · RGB · Schnorr · Taproot · Lightning Network · Shamir’s Secret Sharing · Descriptors · MuSig2 · PSBT · OmniBOLT
+| Title | 中文 | Link |
+|-------|------|------|
+| Mastering Bitcoin 2nd | 精通比特幣 | [Link](https://mastering-bitcoin.doge.tg) |
+| Mastering Bitcoin 3rd | 精通比特幣 3rd | [Link](https://bitcoinbook-3nd-zh.doge.tg) |
+| Mastering Ethereum | 精通以太坊 | [Link](https://mastering-ethereum.doge.tg) |
+| Programming Bitcoin | 比特幣編程 | [Link](https://programming-bitcoin-zh.doge.tg) |
+| Mastering the Lightning Network | 精通閃電網路 | [Link](https://lnbook-zh.doge.tg) |
+| The Blocksize War | 區塊大小之戰 | [Link](https://the-blocksize-war.doge.tg) |
+| TON Technical Papers | TON 技術文件 | [Link](https://ton-pdf.doge.tg) |
 
-**Books:**
+## Research Interests
 
-| Book                       | 書名             | 連結                                         | Repo                                                |
-| -------------------------- | ---------------- | -------------------------------------------- | --------------------------------------------------- |
-| TON White Paper            | TON 白皮書       | [Link](https://ton-pdf.doge.tg/)             | [Link](https://github.com/awesome-doge/ton-pdf)     |
-| The Blocksize War          | 區塊大小之戰     | [Link](https://the-blocksize-war.doge.tg/)   | [Link](https://github.com/awesome-doge/the-blocksize-war) |
-| Programming Bitcoin        | 比特幣編程       | [Link](https://programming-bitcoin-zh.doge.tg/) | [Link](https://github.com/awesome-doge/programming-bitcoin-zh) |
-| Mastering Ethereum         | 精通以太坊       | [Link](https://mastering-ethereum.doge.tg/)  | [Link](https://github.com/awesome-doge/ethereumbook_zh) |
-| Mastering Bitcoin 2nd Edition | 精通比特幣   | [Link](https://mastering-bitcoin.doge.tg/)   | [Link](https://github.com/awesome-doge/bitcoinbook_2nd_zh) |
+TON · Bitcoin · RGB · Lightning Network · Schnorr · Taproot · MuSig2 · PSBT · Tor · TEE
 
-[Google Scholar](https://scholar.google.com/citations?user=NUNuG2sAAAAJ)
+## Links
 
-
-
-
-
-<img src="/github-metrics.svg" alt="Metrics" width="100%">
+[Website](https://doge.tg) · [GitHub](https://github.com/awesome-doge) · [Twitter](https://twitter.com/drawesomedoge) · [Telegram](https://t.me/awesome_doge) · [Google Scholar](https://scholar.google.com/citations?user=NUNuG2sAAAAJ)
