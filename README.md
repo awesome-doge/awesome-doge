@@ -2,11 +2,6 @@
 
 Blockchain developer and researcher based in Taiwan. Since discovering Bitcoin in 2013, dedicated to advancing decentralized technologies and making blockchain knowledge accessible to Chinese-speaking communities worldwide.
 
-## Current
-
-**[TON Foundation](https://ton.org)** - Strategic Partnerships
-Validator infrastructure, protocol research, and technical documentation
-
 ## Timeline
 
 | Year | Focus | Achievement |
@@ -20,7 +15,7 @@ Validator infrastructure, protocol research, and technical documentation
 
 ## Projects
 
-- [Tonkey](https://tonkey.app) - First TON multisig wallet
+- [Tonkey](https://tonkey.site) - First TON multisig wallet
 - [TONScan](https://tonscan.com) - Blockchain explorer
 - [TON Validators](https://validators.doge.tg) - Validator monitoring
 - [Cocoon](https://cocoon.doge.tg) - TEE-based AI inference
